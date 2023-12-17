@@ -45,12 +45,11 @@ The F1 Score is the evaluation metric for this hackathon.
 ---
 
 ### Disclaimer:
- <i> 
- The dataset provided for this end-term exam in Methods and Algorithms in Machine Learning -1 is furnished by the university for academic purposes. 
+ *The dataset provided for this end-term exam in Methods and Algorithms in Machine Learning -1 is furnished by the university for academic purposes. 
  Please be aware that, given its academic nature, the dataset might contain simulated or artificially introduced data for educational and assessment objectives. 
  It is advised to consider the possibility of inconsistencies or deviations from real-world scenarios in the dataset. 
- The purpose is to evaluate your skills in addressing machine learning challenges rather than reflecting an exact representation of an external, real-world dataset.
- </i> 
+ The purpose is to evaluate your skills in addressing machine learning challenges rather than reflecting an exact representation of an external, real-world dataset.*
+
 
 
 
