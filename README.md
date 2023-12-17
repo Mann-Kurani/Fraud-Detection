@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-IndAvenue, a disruptive payment gateway start-up, faces challenges in fraud detection due to its low processing fees strategy. The lack of a robust fraud detection system has resulted in economic burdens for vendors, leading to client attrition. This hackathon involves creating an AI-based model to detect and prevent fraudulent transactions, utilizing a dataset with an `is_fraud` column indicating transaction fraudulence.
+IndAvenue, a payment gateway start-up, faces challenges in fraud detection due to its low processing fees strategy. The lack of a robust fraud detection system has resulted in economic burdens for vendors, leading to client attrition. This hackathon involves creating an AI-based model to detect and prevent fraudulent transactions, utilizing a dataset with an `is_fraud` column indicating transaction fraudulence.
 
 ## Table of Contents
 1. **Problem Description**
